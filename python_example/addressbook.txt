@@ -1,0 +1,1 @@
+b'\n*\n\x04John\x10{\x1a\x10john@example.com"\x0e\n\n1234567890\x10\x01\n+\n\x04Jane\x10\xc8\x03\x1a\x10jane@example.com"\x0e\n\n9876543210\x10\x02'
